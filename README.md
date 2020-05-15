@@ -4,14 +4,14 @@ Web app developed in bootstrap to show everything that can be done with this css
 
 <img src="https://i.imgur.com/4kxBNd5.png" />
 
--Html
+- Html
 
--Javascript
+- Javascript
 
--Css
+- Css
 
--Boostrap
+- Boostrap
 
--Jquery
+- Jquery
 
 <img src="https://i.imgur.com/LnnaqmW.jpg" />
